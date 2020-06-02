@@ -1,1 +1,1 @@
-web: java -jar target/Hidroon.war
+web: java -jar target/Hidroon.jar
